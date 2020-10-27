@@ -1,4 +1,4 @@
-package com.galid.order.command.refund.command.domain;
+package com.galid.order.refund.command.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

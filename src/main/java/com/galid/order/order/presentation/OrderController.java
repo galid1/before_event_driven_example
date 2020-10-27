@@ -1,6 +1,6 @@
-package com.galid.order.command.order.presentation;
+package com.galid.order.order.presentation;
 
-import com.galid.order.command.order.application.OrderService;
+import com.galid.order.order.application.OrderService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 

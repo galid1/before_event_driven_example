@@ -1,4 +1,4 @@
-package com.galid.order.command.order.domain;
+package com.galid.order.order.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

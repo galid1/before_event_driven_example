@@ -1,4 +1,4 @@
-package com.galid.order.command.order.domain;
+package com.galid.order.order.domain;
 
 public enum OrderStatus {
     CANCEL, ORDERED, SHIPPED

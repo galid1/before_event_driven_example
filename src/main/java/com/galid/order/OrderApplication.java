@@ -1,6 +1,6 @@
 package com.galid.order;
 
-import com.galid.order.command.order.application.OrderService;
+import com.galid.order.order.application.OrderService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

@@ -1,6 +1,6 @@
-package com.galid.order.command.refund.infra;
+package com.galid.order.refund.infra;
 
-import com.galid.order.command.refund.application.RefundModule;
+import com.galid.order.refund.application.RefundModule;
 import org.springframework.stereotype.Service;
 
 @Service

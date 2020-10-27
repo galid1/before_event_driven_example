@@ -1,8 +1,8 @@
-package com.galid.order.command.order.application;
+package com.galid.order.order.application;
 
-import com.galid.order.command.order.domain.OrderEntity;
-import com.galid.order.command.order.domain.OrderRepository;
-import com.galid.order.command.refund.application.RefundService;
+import com.galid.order.order.domain.OrderEntity;
+import com.galid.order.order.domain.OrderRepository;
+import com.galid.order.refund.application.RefundService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
